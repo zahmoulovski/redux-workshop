@@ -1,8 +1,8 @@
-👋 Hi, I’m @zahmoulovski Med Yassine
-👀 I’m interested in Android dev.
-🌱 I’m currently learning Full Stack developer at Gomycode.
-💞️ I’m looking to collaborate on JS
-📫 How to reach me : medyassine.zahmoul@gmail.com or WhatsApp +21621858646
+👋 Hi, I’m @zahmoulovski Med Yassine<br>
+👀 I’m interested in Android dev.<br>
+🌱 I’m currently learning Full Stack developer at Gomycode.<br>
+💞️ I’m looking to collaborate on JS<br>
+📫 How to reach me : medyassine.zahmoul@gmail.com or WhatsApp +21621858646<br>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
